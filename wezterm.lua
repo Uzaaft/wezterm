@@ -111,7 +111,7 @@ return {
   selection_word_boundary = " \t\n{}[]()\"'`,;:@",
   -- disable_default_key_bindings = true,
   line_height = 1.25,
-  font_size = 13,
+  font_size = 12,
   window_background_opacity = 0.95,
   bold_brightens_ansi_colors = false,
   -- swap_backspace_and_delete = false,
